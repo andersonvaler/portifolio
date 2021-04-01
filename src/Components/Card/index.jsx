@@ -1,6 +1,5 @@
 import { Container, Cards, Content } from "./style.js";
 import Tilt from "react-vanilla-tilt";
-import virtuose from "../../Img/virtuose2.png";
 
 const Card = () => {
   return (
